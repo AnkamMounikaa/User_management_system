@@ -1,0 +1,6 @@
+django/               # virtual environment
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+*.log
